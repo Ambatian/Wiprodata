@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WiproJuly\\Day3\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|c:\\wiprojuly\\day3\\consoleapp1\\consoleapp1\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|solutionrelative:consoleapp1\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|c:\\wiprojuly\\day3\\consoleapp1\\consoleapp1\\jagged4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|solutionrelative:consoleapp1\\jagged4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|c:\\wiprojuly\\day3\\consoleapp1\\consoleapp1\\jagged3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|solutionrelative:consoleapp1\\jagged3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|c:\\wiprojuly\\day3\\consoleapp1\\consoleapp1\\jagged2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|solutionrelative:consoleapp1\\jagged2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|c:\\wiprojuly\\day3\\consoleapp1\\consoleapp1\\jagged1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|solutionrelative:consoleapp1\\jagged1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|c:\\wiprojuly\\day3\\consoleapp1\\consoleapp1\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|solutionrelative:consoleapp1\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|c:\\wiprojuly\\day3\\consoleapp1\\consoleapp1\\custominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26A67A9-1CC2-418E-95DB-C59CEE32231F}|ConsoleApp1\\DemoApp.csproj|solutionrelative:consoleapp1\\custominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jagged3.cs",
+              "DocumentMoniker": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\jagged3.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\jagged3.cs",
+              "ToolTip": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\jagged3.cs",
+              "RelativeToolTip": "ConsoleApp1\\jagged3.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:46:51.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jagged4.cs",
+              "DocumentMoniker": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Jagged4.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Jagged4.cs",
+              "ToolTip": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Jagged4.cs",
+              "RelativeToolTip": "ConsoleApp1\\Jagged4.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:47:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Matrix.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Matrix.cs",
+              "ToolTip": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Matrix.cs",
+              "RelativeToolTip": "ConsoleApp1\\Matrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:47:20.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jagged2.cs",
+              "DocumentMoniker": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Jagged2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Jagged2.cs",
+              "ToolTip": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Jagged2.cs",
+              "RelativeToolTip": "ConsoleApp1\\Jagged2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:46:41.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jagged1.cs",
+              "DocumentMoniker": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Jagged1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Jagged1.cs",
+              "ToolTip": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Jagged1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Jagged1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:46:30.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Demo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Demo.cs",
+              "ToolTip": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\Demo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:46:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomInput.cs",
+              "DocumentMoniker": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\CustomInput.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CustomInput.cs",
+              "ToolTip": "C:\\WiproJuly\\Day3\\ConsoleApp1\\ConsoleApp1\\CustomInput.cs",
+              "RelativeToolTip": "ConsoleApp1\\CustomInput.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:44:49.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
